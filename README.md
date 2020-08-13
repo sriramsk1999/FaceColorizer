@@ -12,6 +12,9 @@ Download and place the folder `trained/` in the working directory if pretrained 
 
 #### Sample Results from LFW Dataset
 
+
+Format: Original image -> Converted to black-and-white by GAN AB -> Converted back to colour by GAN BA
+
 ![img1](images/a_to_b_3.jpg)
 
 ![img2](images/a_to_b_19.jpg)
